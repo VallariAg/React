@@ -1,0 +1,19 @@
+form {
+  display: flex;
+  padding: 10px;
+}
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f2f3f4;
+}
+input {
+  margin-right: 10px;
+}
+.frame {
+  /* width: 40vw; */
+  max-width: 400px;
+}
+
